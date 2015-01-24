@@ -1,0 +1,18 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "MetalHeck",
+    "display_name" : "Metal Heck",
+    "description" : "Build metal spots anywhere. That's it, and it's amazing.",
+    "author" : "Stuart98",
+    "version" : "1.0",
+    "build": "76557",
+    "date": "2015/01/23",
+    "signature": "not yet implemented",
+    "category": [
+        "server-mod",
+		"game-mode"
+    ],
+    "icon": "https://raw.githubusercontent.com/pamods/pamods.github.io/master/icons/metalbackground.jpg",
+    "priority": 100
+}
