@@ -5,9 +5,9 @@
     "display_name" : "Metal Heck",
     "description" : "Build metal extractors anywhere. That's it, and it's amazing.",
     "author" : "Stuart98",
-    "version" : "1.01",
-    "build": "76557",
-    "date": "2015/01/23",
+    "version" : "1.1",
+    "build": "89755",
+    "date": "2016/04/01",
     "signature": "not yet implemented",
     "category": [
         "server-mod",
